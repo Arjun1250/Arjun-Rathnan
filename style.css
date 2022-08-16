@@ -166,7 +166,7 @@ section .title::after{
 
 .home{
     display: flex;
-    background: url("images/india.jpg") no-repeat center;
+    background: url("images/sunset.jpg") no-repeat center;
     background-color:teal;
     height: 100vh;
     color: white;
